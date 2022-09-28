@@ -1,5 +1,4 @@
 module.exports = {
-  theme: 'reco',
   title: 'Question Collector',
   description: 'Question Collector',
   head: [

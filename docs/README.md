@@ -2,6 +2,8 @@
 
 ## 访问首页
 
+- `https://charlotte-xiao.github.io/question-collector-deploy/`
+
 ## 本地启动
 
 ```shell
@@ -30,14 +32,11 @@ checkout -b 年月日_姓名简写_q{x}
 ## 添加问题内容,${number}为问题编号
 vim docs/question/q${number}/README.md
 
-## 5.重新构建
-npm run docs:build
-
-## 6.提交代码,${number}为问题编号
+## 5.提交代码,${number}为问题编号
 git add .
 git commit -m 'add question ${number}'
 git push 
 
-## 7.提交Pull Request
+## 6.提交Pull Request
 ### 在Github上提交PR
 ```
