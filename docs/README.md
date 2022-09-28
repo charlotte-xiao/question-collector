@@ -1,8 +1,11 @@
 # 问题收集器
 
-## 访问首页
+## 地址信息
 
-- `https://charlotte-xiao.github.io/question-collector-deploy/`
+- 网页地址：
+`https://charlotte-xiao.github.io/question-collector-deploy/`
+- GitHub仓库地址：
+`https://github.com/charlotte-xiao/question-collector`
 
 ## 本地启动
 
@@ -38,5 +41,5 @@ git commit -m 'add question ${number}'
 git push 
 
 ## 6.提交Pull Request
-### 在Github上提交PR
+### 在Github上提交PR,并联系一下作者进行发布
 ```
